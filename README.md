@@ -48,7 +48,7 @@
 
   ### Projects
 
-  ## The Foodie BT
+  ## <a  href="https://github.com/bangtam1994/foodie-bt-gatsby">The Foodie BT</a>
 
 A culinary blog, because I love food. Made in GatsbyJS (static site)
 
@@ -59,7 +59,10 @@ A culinary blog, because I love food. Made in GatsbyJS (static site)
 <a  href="https://the-foodie-bt.netlify.app"><img  src="https://i.ibb.co/JFTYHRV/Screenshot-from-2022-11-27-02-43-27.png" width="900" title="foodie-bt "  alt="foodie-bt"></a> </div>
 
 
-  ## Trust.me
+<br/>
+<br/>
+
+  ## <a  href="https://github.com/TheOutsidersLab/trust-fullstack">Trust.me</a>
 
 Participant for an <a href="https://starton.notion.site/starton/November-Hackathon-21-22-23-24-Final-28-November-2a0f9f1db8554d789fdddcd6291d2c3f"> hackathon </a> in the theme : "Lets build a decentralized Future" , about blockchain world and smart contracts. I was able to contributes mainly on the Front design.
 - <a  href="https://github.com/TheOutsidersLab/trust-fullstack">Github</a>
@@ -69,4 +72,20 @@ Participant for an <a href="https://starton.notion.site/starton/November-Hackath
 <div align="center">
 <a  href="ttps://github.com/TheOutsidersLab/trust-fullstack"><img  src="https://i.ibb.co/L5WvCB9/Screenshot-from-2022-11-27-03-12-48.png" width="400" height="300"  alt="trustme-walletconnect"></a>
 <a  href="ttps://github.com/TheOutsidersLab/trust-fullstack"><img  src="https://i.ibb.co/BB0qPj0/Screenshot-from-2022-11-27-03-22-33.png" width="400" height="300"  alt="trustme-walletconnect"></a> </div>
+
+
+<br/>
+<br/>
+
+## <a  href="https://github.com/bangtam1994/pipelineFlowBuilder">Pipeline Builder</a>
+
+A tool based on React-Flow, made to create Computer Vision pipelines based on individual services/models. Each service is represented as a node and can be linked to another service, managed by contraints.
+The tool enables you to implement/edit your own backends as each service is completely autonomous. It was thought as a very flexible, versatile and easy to use way to create DS pipelines. 
+
+
+- <a  href="https://github.com/bangtam1994/pipelineFlowBuilder">Github</a>
+
+<p align="center">
+	<img src="https://im3.ezgif.com/tmp/ezgif-3-0da20830d8.gif" width="800">
+</p>
 
