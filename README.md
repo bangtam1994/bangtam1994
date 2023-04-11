@@ -11,22 +11,23 @@
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/html-2752158-2284975.png?f=avif&w=256" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png?f=avif&w=256" alt="javascript"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png?f=avif&w=256" alt="react"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-2-226035.png?f=avif&w=256" alt="nodejs"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png?f=avif&w=256" alt="docker"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-8-1175119.png?f=avif&w=256" alt="postgres"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/graphql-3521468-2944912.png?f=avif&w=256" alt="postgres"></a>
 
-<br />
 </div>
 
+<br />
 <br />
 
 
 - 🔭 I’m currently working as : a software developper , especially frontend projects.
 - 🌈 I’m currently learning : web3.js, and more globally web3 ecosystem.
-- 💬 Ask me about : **Reactjs**
+- 💬 Ask me about : **React**
 - 📫 How to reach me : **bangtam.nguyen.1994@gmail.com**
 
 
