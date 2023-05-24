@@ -82,11 +82,11 @@ Participant for an <a href="https://starton.notion.site/starton/November-Hackath
 
 A tool based on React-Flow, made to create Computer Vision pipelines based on individual services/models. Each service is represented as a node and can be linked to another service, managed by contraints.
 The tool enables you to implement/edit your own backends as each service is completely autonomous. It was thought as a very flexible, versatile and easy to use way to create DS pipelines. 
+Work forked from @FlorianVal 
 
 
 - <a  href="https://github.com/bangtam1994/pipelineFlowBuilder">Github</a>
 
 <p align="center">
-	<img src="https://im3.ezgif.com/tmp/ezgif-3-0da20830d8.gif" width="800">
 </p>
 
