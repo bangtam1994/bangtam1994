@@ -15,9 +15,9 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png?f=avif&w=256" alt="javascript"></a>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/react-3-1175109.png?f=avif&w=256" alt="react"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-2-226035.png?f=avif&w=256" alt="nodejs"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png?f=avif&w=256" alt="docker"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-8-1175119.png?f=avif&w=256" alt="postgres"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/graphql-3521468-2944912.png?f=avif&w=256" alt="postgres"></a>
+<a margin="10" href="https://docker.com" target="_blank"><img margin="10px" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker"></a>
+<a margin="10" href="https://www.postgresql.org/" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-8-1175119.png?f=avif&w=256" alt="postgres"></a>
+<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-512/graphql-3521468-2944912.png?f=avif&w=256" alt="postgres"></a>
 
 </div>
 
@@ -87,6 +87,6 @@ Work forked from @FlorianVal
 
 - <a  href="https://github.com/bangtam1994/pipelineFlowBuilder">Github</a>
 
-<p align="center">
+<p align="center"><img  src="https://i.ibb.co/qrsx6L4/Screenshot-from-2023-04-11-22-47-26.png" width="800"   alt="nodepipelinebuilder"></a>
 </p>
 
