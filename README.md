@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋 I'm Bang-Tam NGUYEN </h1>
-<h3 align="center">A passionate Fullstack developper in JS | React | Node</h3>
+<h1 align="center">Hi  👋 I'm Bang-Tam NGUYEN 🚀 </h1>
+<h3 align="center">Software Engineer Fullstack | React | Node</h3>
 
 
 
-<p >I specialize in the use of React Language, front enthusiast, UX oriented, product driven. I love everything about nice design websites.
+<p >Front enthusiast, UX oriented, product driven. I love everything about nice design websites.
 </p>
 
 <div align="center">
@@ -25,29 +25,57 @@
 <br />
 
 
-- 🔭 I’m currently working as : a software developper , especially frontend projects.
-- 🌈 I’m currently learning : web3.js, and more globally web3 ecosystem.
+- 🔭 Currently working as : a software developper, especially frontend projects.
+- 🌈 Currently learning : web3.js, and more globally web3 ecosystem.
 - 💬 Ask me about : **React**
 - 📫 How to reach me : **bangtam.nguyen.1994@gmail.com**
 
 
 ---- 
 
-<p align ="center">
+<p align ="center" style="display: flex; justify-content: center; gap: 15px;">
 
-  <a href="mailto:bangtam.nguyen.1994@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  <a href="mailto:bangtam.nguyen.1994@gmail.com" target="_blank" style="text-decoration: none;" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="https://www.linkedin.com/in/bangtamnguyen" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.linkedin.com/in/bangtamnguyen" target="_blank" style="text-decoration: none;">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
   </a>   
- 
+  <a href="https://t.me/bt_ngn" target="_blank" style="text-decoration: none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" target="_blank">
+  </a>  
+
   
   </p>
 
   ----
 
   ### Projects
+
+  ## <a  href="https://qngcapital.com">QNG Capital</a>
+
+A trading course platform, led by a Forex Trader. The web app is responsive, has a landing page, 3 courses with stripe payment system, and show testimonials of previous students.
+
+Made in Vite, MUI, framer-motion, stripe-js. 
+Back-end in node (nest.js) with stripe integration and postgres Db. 
+Deployed with Vercel, heroku & railway.
+
+- <a  href="https://github.com/bangtam1994/qng-capital-frontend">Github front</a>
+- <a  href="https://github.com/bangtam1994/qng-capital-backend">Github back</a>
+- <a  href="https://qngcapital.com/">www.qngcapital.com</a>
+
+<div align="center">
+<a  href="https://qngcapital.com"><img  src="https://i.ibb.co/QMQY11b/Screenshot-from-2025-01-06-16-49-33.png" width="900" title="qng "  alt="qng"></a> </div>
+<br/>
+
+<div align="center">
+<a  href="https://qngcapital.com"><img  src="https://i.ibb.co/64L1H9P/Screenshot-from-2025-01-06-16-49-51.png" width="400" height="230" title="qng main "  alt="qng main"></a> 
+  <a  href="https://qngcapital.com"><img  src="https://i.ibb.co/XJtzRy5/Screenshot-from-2025-01-06-19-47-44.png" width="400" height="230" title="qng center "  alt="qng center"></a> 
+</div>
+
+</div>
+<br/>
+<br/>
 
   ## <a  href="https://github.com/bangtam1994/foodie-bt-gatsby">The Foodie BT</a>
 
@@ -57,7 +85,7 @@ A culinary blog, because I love food. Made in GatsbyJS (static site)
 - <a  href="https://the-foodie-bt.netlify.app/">www.the-foodie-bt.netlify.app</a>
 
 <div align="center">
-<a  href="https://the-foodie-bt.netlify.app"><img  src="https://i.ibb.co/JFTYHRV/Screenshot-from-2022-11-27-02-43-27.png" width="900" title="foodie-bt "  alt="foodie-bt"></a> </div>
+<a  href="https://the-foodie-bt.netlify.app"><img  src="https://i.ibb.co/31Qd731/Screenshot-from-2025-01-06-19-49-09.png" width="900" title="foodie-bt "  alt="foodie-bt"></a> </div>
 
 
 <br/>
@@ -73,6 +101,7 @@ Participant for an <a href="https://starton.notion.site/starton/November-Hackath
 <div align="center">
 <a  href="ttps://github.com/TheOutsidersLab/trust-fullstack"><img  src="https://i.ibb.co/L5WvCB9/Screenshot-from-2022-11-27-03-12-48.png" width="400" height="300"  alt="trustme-walletconnect"></a>
 <a  href="ttps://github.com/TheOutsidersLab/trust-fullstack"><img  src="https://i.ibb.co/BB0qPj0/Screenshot-from-2022-11-27-03-22-33.png" width="400" height="300"  alt="trustme-walletconnect"></a> </div>
+
 
 
 <br/>
