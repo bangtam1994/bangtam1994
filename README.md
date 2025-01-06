@@ -52,7 +52,7 @@
 
   ### Projects
 
-  ## <a  href="https://qngcapital.com">QNG Capital</a>
+  ## <a  href="https://qngcapital.com" target="_blank" rel="noopener noreferrer">QNG Capital</a>
 
 A trading course platform, led by a Forex Trader. The web app is responsive, has a landing page, 3 courses with stripe payment system, and show testimonials of previous students.
 
@@ -60,9 +60,9 @@ Made in Vite, MUI, framer-motion, stripe-js.
 Back-end in node (nest.js) with stripe integration and postgres Db. 
 Deployed with Vercel, heroku & railway.
 
-- <a  href="https://github.com/bangtam1994/qng-capital-frontend">Github front</a>
-- <a  href="https://github.com/bangtam1994/qng-capital-backend">Github back</a>
-- <a  href="https://qngcapital.com/">www.qngcapital.com</a>
+- <a  href="https://github.com/bangtam1994/qng-capital-frontend" target="_blank" rel="noopener noreferrer">Github front</a>
+- <a  href="https://github.com/bangtam1994/qng-capital-backend" target="_blank" rel="noopener noreferrer">Github back</a>
+- <a  href="https://qngcapital.com/" target="_blank" rel="noopener noreferrer">www.qngcapital.com</a>
 
 <div align="center">
 <a  href="https://qngcapital.com"><img  src="https://i.ibb.co/QMQY11b/Screenshot-from-2025-01-06-16-49-33.png" width="900" title="qng "  alt="qng"></a> </div>
