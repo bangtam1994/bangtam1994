@@ -52,6 +52,32 @@
 
   ### Projects
 
+ ## <a  href="https://tradetalk-chat.vercel.app" target="_blank" rel="noopener noreferrer">Trade Talk</a>
+
+A trading journal app, with a calendar and an AI psychological analysis, your trading mentor. The app has a landing page, a trading plan form (trading strategy) and a calendar to enter all the trades of the user. 
+
+Made in Next.js. 
+Serverless but DB hosted in Supabase. 
+Deployed with Vercel.
+
+
+- <a  href="https://github.com/bangtam1994/tradetalk_ui" target="_blank" rel="noopener noreferrer">Github</a>
+- <a  href="https://www.tradetalk-chat.vercel.app" target="_blank" rel="noopener noreferrer">www.tradetalk-chat.vercel.app</a>
+
+<div align="center">
+<a  href="https://tradetalk-chat.vercel.app"><img  src="https://i.ibb.co/8D0hDHB5/Screenshot-from-2025-07-26-18-19-57.png" width="800" height="500" title="tradetalk landing"  alt="tradetalk landing"></a> </div>
+<br/>
+
+<div align="center">
+<a  href="https://tradetalk-chat.vercel.app"><img  src="https://i.ibb.co/pvfBf6vz/Screenshot-from-2025-07-26-18-21-47.png" width="600" height="400" title="tradetalk main"  alt="tradetalk main"></a> 
+  <a  href="https://tradetalk-chat.vercel.app"><img  src="https://i.ibb.co/Sw2VdZKJ/Screenshot-from-2025-07-26-18-35-41.png" width="300" height="400" title="tradetalk ai"  alt="tradetalk ai"></a> 
+</div>
+
+</div>
+<br/>
+<br/>
+
+
   ## <a  href="https://qngcapital.com" target="_blank" rel="noopener noreferrer">QNG Capital</a>
 
 A trading course platform, led by a Forex Trader. The web app is responsive, has a landing page, 3 courses with stripe payment system, and show testimonials of previous students.
